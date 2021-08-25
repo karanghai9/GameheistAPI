@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a test.
+=======
+Khooni parinde kuchh kaam krle
+>>>>>>> 18a236d101783830eed44841b11026bb307eddfe
